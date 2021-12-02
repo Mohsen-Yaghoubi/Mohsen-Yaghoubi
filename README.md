@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohsen <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Mohsen!</h1>
 <h3 align="center">A Software Engineer and .Net Developer from Iran</h3>
 
-- 🔭 I’m currently working on my **<a href="https://www.bycheck.ir/">Bycheck.ir</a>**
+- 🔭 I’m currently working on **<a href="https://www.bycheck.ir/">Bycheck.ir</a>**
 
 - 🌱 I’m currently learning **Docker and Microservices**
 
@@ -16,7 +16,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mohsen-Yaghoubi/)
 [![image](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mohsen_yb/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohsen-Yaghoubi@outlook.com)
+[![image](https://img.shields.io/badge/Outlook-035ba3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohsen-Yaghoubi@outlook.com)
   
 </div>
 
@@ -26,8 +26,11 @@
 
    <a href="https://dotnet.microsoft.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="DotNet" width="40" height="40"/> 
+  </a>   
+   <a href="https://azure.microsoft.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
   </a> 
-
+  
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
