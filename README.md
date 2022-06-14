@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohsen!</h1>
-<h3 align="center">A Software Engineer and .Net Developer from Iran</h3>
+<h3 align="center">A Software Developer from Earth planet🌎</h3>
 
-- 🔭 I’m currently working on **<a href="https://www.bycheck.ir/">Bycheck.ir</a>**
+- 🌱 I’m currently learning **DevOps and Cloud Computing**
 
-- 🌱 I’m currently learning **Docker and Microservices**
-
-- 👯 I’m looking to collaborate on **Asp.Net Core projects**
+- 👯 I’m looking to collaborate on **.Net projects**
 
 - 📫 How to reach me: **<a href="https://yaghoubi.dev/">Yaghoubi.Dev</a>**
 
