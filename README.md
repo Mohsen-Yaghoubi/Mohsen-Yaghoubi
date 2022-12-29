@@ -51,9 +51,3 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
-<p align="center">
-    <img height="150"
-        src="https://github-readme-stats.vercel.app/api?username=Mohsen-Yaghoubi&theme=react&show_icons=true&include_all_commits=true" />
-    <img height="150"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Yaghoubi&theme=react&layout=compact" />
-</p>
